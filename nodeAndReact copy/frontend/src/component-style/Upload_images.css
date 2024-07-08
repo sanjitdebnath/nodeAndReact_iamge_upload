@@ -1,0 +1,10 @@
+.image-container {
+    position: relative;
+  }
+  .delete-icon {
+    position: absolute;
+    top: 10px;
+    right : 10px;
+    color: #ffffff; /* Adjust icon color as needed */
+    cursor: pointer;
+  }
